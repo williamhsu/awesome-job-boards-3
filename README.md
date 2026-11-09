@@ -190,6 +190,7 @@ This comprehensive collection features 700+ job boards across different categori
 ## Remote
 
 - [Real Work From Anywhere](https://www.realworkfromanywhere.com/) | 100% globally work from anywhere jobs
+- [Euro Remote Talent](https://euroremotetalent.com) | Remote jobs for European professionals, plus vetted European hires for remote companies
 - [Career Vault](https://careervault.io/)
 - [Remotebond](https://remotebond.com/)
 - [Jobspresso](https://jobspresso.co/remote-work/)
